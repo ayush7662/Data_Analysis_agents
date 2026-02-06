@@ -1,4 +1,4 @@
-# 📊 AI Data Analysis Agent
+# 📊 AI Data Analysis Agents
 
 
 An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-4o model. This agent helps users analyze their data - csv, excel files through natural language queries, powered by OpenAI's language models and DuckDB for efficient data processing - making data analysis accessible to users regardless of their SQL expertise.
@@ -31,7 +31,7 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/ayush7662/Data_Analysis_agent.git
+   git clone https://github.com/ayush7662/Data_Analysis_agents.git
    cd ai_data_analysis_agent
 
    # Install dependencies
